@@ -12,7 +12,7 @@ Last updated · 최종 수정 · 最終更新: 2026-10-27
 
 ## English
 
-**a jarak** ("the app") does not collect personal information.
+**Jarak** ("the app") does not collect personal information.
 
 - **No accounts, ads, analytics, or tracking.** The app has no sign-in, shows no ads, and contains no analytics or third-party tracking tools. The developer receives no data from your device.
 - **Data stored on your device.** The app keeps your reading position, recently read books, settings, and cached texts on your device only. This data is not sent to the developer.
@@ -27,7 +27,7 @@ Contact: gjarak@icloud.com
 
 ## 한국어
 
-**한 자락**(이하 "앱")은 개인정보를 수집하지 않습니다.
+**자락**(이하 "앱")은 개인정보를 수집하지 않습니다.
 
 - **계정, 광고, 분석, 추적이 없습니다.** 로그인이 없고 광고를 보여 주지 않으며, 분석 도구나 제3자 추적 도구가 들어 있지 않습니다. 개발자는 사용자의 기기에서 어떤 데이터도 받지 않습니다.
 - **기기에 저장되는 데이터.** 읽던 위치, 최근 읽은 책, 설정, 저장된 본문은 사용자의 기기에만 보관되며 개발자에게 전송되지 않습니다.
@@ -42,7 +42,7 @@ Contact: gjarak@icloud.com
 
 ## 日本語
 
-**a jarak**(以下「本アプリ」)は、個人情報を収集しません。
+**ジャラク**(以下「本アプリ」)は、個人情報を収集しません。
 
 - **アカウント・広告・分析・トラッキングはありません。** サインインはなく、広告も表示せず、分析ツールや第三者のトラッキングツールも含まれていません。開発者があなたのデバイスからデータを受け取ることはありません。
 - **デバイスに保存されるデータ。** 読んでいる位置、最近読んだ本、設定、保存された本文は、あなたのデバイスにのみ保存され、開発者には送信されません。

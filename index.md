@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-# a jarak · 한 자락 · a jarak — Support · 지원 · サポート
+# Jarak · 자락 · ジャラク — Support · 지원 · サポート
 
 [English](#english) · [한국어](#한국어) · [日本語](#日本語) · [Privacy Policy · 개인정보 처리방침 · プライバシーポリシー](privacy)
 
@@ -10,7 +10,7 @@ permalink: /
 
 ## English
 
-**a jarak** is a reader for Wikisource. Each time you swipe, it brings you a new piece of writing to linger on.
+**Jarak** is a reader for Wikisource. Each time you swipe, it brings you a new piece of writing to linger on.
 
 **How to use**
 - Swipe left for the next piece, and swipe right to go back to what you were reading.
@@ -24,13 +24,13 @@ permalink: /
 
 Contact: gjarak@icloud.com
 
-*a jarak is an independent app. It is not affiliated with or endorsed by the Wikimedia Foundation.*
+*Jarak is an independent app. It is not affiliated with or endorsed by the Wikimedia Foundation.*
 
 ---
 
 ## 한국어
 
-**한 자락**은 위키문헌을 읽는 앱입니다. 넘길 때마다 잠시 머물 글 한 자락을 보여 줍니다.
+**자락**은 위키문헌을 읽는 앱입니다. 넘길 때마다 잠시 머물 글 한 자락을 보여 줍니다.
 
 **사용 방법**
 - 왼쪽으로 밀면 다음 글, 오른쪽으로 밀면 읽던 글로 돌아갑니다.
@@ -44,13 +44,13 @@ Contact: gjarak@icloud.com
 
 문의: gjarak@icloud.com
 
-*한 자락은 독립적으로 만든 앱이며 위키미디어 재단과 제휴하거나 보증받지 않았습니다.*
+*자락은 독립적으로 만든 앱이며 위키미디어 재단과 제휴하거나 보증받지 않았습니다.*
 
 ---
 
 ## 日本語
 
-**a jarak** はウィキソースを読むためのアプリです。スワイプするたびに、しばし身をゆだねたくなる文章をひとつ届けます。
+**ジャラク** はウィキソースを読むためのアプリです。スワイプするたびに、しばし身をゆだねたくなる文章をひとつ届けます。
 
 **使い方**
 - 左にスワイプで次の文章、右にスワイプで読んでいた文章に戻ります。
@@ -64,4 +64,4 @@ Contact: gjarak@icloud.com
 
 お問い合わせ: gjarak@icloud.com
 
-*a jarak は独立したアプリであり、ウィキメディア財団とは提携しておらず、その承認も受けていません。*
+*ジャラクは独立したアプリであり、ウィキメディア財団とは提携しておらず、その承認も受けていません。*
